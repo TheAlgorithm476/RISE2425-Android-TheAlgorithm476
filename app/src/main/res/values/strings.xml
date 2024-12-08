@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Astar Launch App</string>
+    <string name="astar_name">Astar Technologies</string>
+
+    <string name="action.go_back">Go Back</string>
+    <string name="action.retry">Retry</string>
+    <string name="action.loading_data">Loading Data…</string>
+
+    <string name="error.not_connected">Unable to connect to server</string>
+    <string name="error.not_found.article">Article not found!</string>
+    <string name="error.not_found.launch">Launch not found!</string>
+    <string name="error.not_found.vehicle">Rocket not found!</string>
+    <string name="error.offline.title">It looks like you\'re offline</string>
+    <string name="error.offline.description">Data may not be fully up-to-date</string>
+
+    <string name="articles.name.plural">Articles</string>
+    <string name="articles.description.reference">This article is about %s</string>
+    <string name="articles.author">%s — %s</string>
+
+    <string name="launches.status.success">Launch Success</string>
+    <string name="launches.status.failure">Launch Failure</string>
+    <string name="launches.mission.details_title">Mission Details</string>
+    <string name="launches.mission.vehicle_title">Vehicle Configuration</string>
+    <string name="launches.name.plural">Launches</string>
+
+    <string name="vehicles.parameter.height">Height: %d cm</string>
+    <string name="vehicles.parameter.liftoff_thrust">Liftoff Thrust: %dN</string>
+    <string name="vehicles.parameter.diameter">Diameter: %d cm</string>
+    <string name="vehicles.parameter.boosters">Boosters: %d</string>
+    <string name="vehicles.name.plural">Vehicles</string>
+    <string name="vehicles.photo.title">Photo of %s</string>
+
+    <string name="enums.vehicles.families">Families</string>
+    <string name="enums.vehicles.configurations">Configurations</string>
+    <string name="enums.vehicles.test_articles">Test Articles</string>
+</resources>
